@@ -41,7 +41,7 @@ a {
   align-items: center;
   text-align: center;
 
-  background-image: url("img/header-bg.jpg"); /* Banner */
+  background-image: url("imagens/header-bg.jpg"); /* Banner */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
