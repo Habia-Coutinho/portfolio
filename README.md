@@ -1,4 +1,4 @@
-# 👩‍💻 Hábia Maíla Ribeiro Coutinho
+# 👩‍💻 Hábia Coutinho
 
 Olá! Sou estudante de desenvolvimento Front-End, focada em criar interfaces web simples, responsivas e acessíveis.
 
