@@ -595,9 +595,9 @@ body.dark-mode .footer-site h1 {
 /*posicao do botao tema*/
 
 .btn-tema{
-  position: fixed;
-  top: 20px;
-  right: 20px;
+  position: fixed !important;
+  top: 40px;
+  right: 40px;
   width: 45px;
   height: 45px;
   border-radius: 50%;
