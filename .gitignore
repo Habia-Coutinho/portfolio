@@ -1,1 +1,3 @@
-g
+.vscode/
+node_modules/
+.env
