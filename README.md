@@ -23,7 +23,6 @@ Olá! Sou estudante de desenvolvimento Front-End, focada em criar interfaces web
 ## 📚 Formação
 
 - Programa Jovem Programadora — Senac (308h)
-- Introduction to Front-End Development — Meta (Coursera)
 
 ---
 
